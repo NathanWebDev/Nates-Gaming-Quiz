@@ -27,7 +27,7 @@ export default function QuestionHud() {
     return (
         <div class="question">
             <div class="score">
-                <h1>Question {currentQuestion}/{QuestionData.length}</h1>
+                <h1>Question {currentQuestion + 1}/{QuestionData.length}</h1>
             </div>
             <div class="question-box">
                 <div class="question-info">
@@ -51,7 +51,7 @@ export default function QuestionHud() {
     } else {
         return (
         <div class="final-score">
-            <h1>You got {score}  out of {QuestionData.length} questions right</h1>
+            <h1>You got {score} out of {QuestionData.length} questions right</h1>
             <div class="button" onClick={restartHandler}>
                 <h3>Restart</h3>
             </div>
