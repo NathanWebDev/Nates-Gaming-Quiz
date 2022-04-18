@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nates-Gaming-Quiz/static/css/main.7b6ec68d.css",
-    "main.js": "/Nates-Gaming-Quiz/static/js/main.329a21fc.js",
+    "main.js": "/Nates-Gaming-Quiz/static/js/main.e98c8257.js",
     "static/js/787.ba51fe81.chunk.js": "/Nates-Gaming-Quiz/static/js/787.ba51fe81.chunk.js",
     "static/media/Pizza-Web.png": "/Nates-Gaming-Quiz/static/media/Pizza-Web.de7ca0de1721e3cf1b63.png",
     "static/media/Megaman-Web.png": "/Nates-Gaming-Quiz/static/media/Megaman-Web.c8ceff0a01091d5c5540.png",
@@ -11,11 +11,11 @@
     "index.html": "/Nates-Gaming-Quiz/index.html",
     "static/media/Quiz-Logo-V3-Web.svg": "/Nates-Gaming-Quiz/static/media/Quiz-Logo-V3-Web.d427f6e41dd8740b6d3c1516fd629603.svg",
     "main.7b6ec68d.css.map": "/Nates-Gaming-Quiz/static/css/main.7b6ec68d.css.map",
-    "main.329a21fc.js.map": "/Nates-Gaming-Quiz/static/js/main.329a21fc.js.map",
+    "main.e98c8257.js.map": "/Nates-Gaming-Quiz/static/js/main.e98c8257.js.map",
     "787.ba51fe81.chunk.js.map": "/Nates-Gaming-Quiz/static/js/787.ba51fe81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6ec68d.css",
-    "static/js/main.329a21fc.js"
+    "static/js/main.e98c8257.js"
   ]
 }
